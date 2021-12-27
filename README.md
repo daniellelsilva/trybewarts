@@ -8,3 +8,7 @@ Neste projeto foi verificado se o aluno possuia as habilidades para:
 - Utilizar CSS Flexbox para criar layouts flexíveis;
 - Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
 - Construir páginas que alteram o seu layout de acordo com a orientação da tela;
+
+Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
+
+Projeto realizado no dia: 25/09/2021
