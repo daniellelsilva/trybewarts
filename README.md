@@ -11,4 +11,5 @@ Neste projeto foi verificado se o aluno possuia as habilidades para:
 
 Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
 
-Projeto realizado no dia: 25/09/2021
+Projeto realizado no dia 25/09/2021 e pode ser acessado neste link: https://daniellelsilva.github.io/trybewarts/
+
